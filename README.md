@@ -1,1 +1,2 @@
 # PyxelGameDemo
+![スクショ](./GameImage.png)
